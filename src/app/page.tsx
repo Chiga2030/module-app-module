@@ -1,7 +1,7 @@
 export default function Home () {
   return (
     <>
-      new second page
+      new second page edit
     </>
   )
 }
